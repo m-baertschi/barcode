@@ -35,7 +35,6 @@ import (
 	"errors"
 	"image"
 	"runtime"
-	"unsafe"
 )
 
 // #include <zbar.h>
